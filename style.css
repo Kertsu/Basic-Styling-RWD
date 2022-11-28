@@ -25,14 +25,14 @@ main ul{
     padding: 1.5em;
 }
 
-main ul li > a{
+main ul li a{
     color: #82b8de;
 }
 
-main ul li > a:visited{
+main ul li a:visited{
     color: #2b99e6;
 }
 
-main ul li > a:hover{
+main ul li a:hover{
     text-decoration: none;
 }
